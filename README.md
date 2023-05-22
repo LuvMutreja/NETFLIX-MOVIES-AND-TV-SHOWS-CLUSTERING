@@ -1,6 +1,7 @@
 # NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
 
 PROBLEM STATEMENT
+
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is
 collected from Flixable which is a third-party Netflix search engine. In 2018, they released
 an interesting report which shows that the number of TV shows on Netflix has nearly tripled
@@ -9,6 +10,7 @@ titles since 2010, while its number of TV shows has nearly tripled. It will be i
 explore what all other insights can be obtained from the same dataset.
 
 SUMMARY
+
 Clustering is the grouping of objects based on their characteristics such that there is high intra-cluster similarity and low inter-cluster similarity. It has a lot of uses in a variety of industries, including market segmentation, social network analysis, search result grouping, medical imaging, image segmentation and anomaly detection.
 Data scientists and others use clustering to gain important insights from data by observing what groups (or clusters) the data points fall into when they apply a clustering algorithm to the data. Clustering can also be used for anomaly detection to find data points that are not part of any cluster, or outliers. Clustering is a part of unsupervised learning, which is a machine learning technique that does not require the supervision of models by users. In unsupervised machine learning, we use a learning algorithm to discover unknown patterns in unlabeled datasets i.e there is no target variable.
 The dataset I have here is containing 7787 rows and 12 columns where each row is for a show. The columns are-
